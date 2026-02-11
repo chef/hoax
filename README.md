@@ -1,3 +1,11 @@
+## Archived 3rd-Party Fork
+
+This repository is an archived copy of a 3rd-party open-source project that Progress Chef contributed to.
+
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+
+No further contributions are anticipated to be made.
+
 [![GitHub tag](https://img.shields.io/github/tag/xenolinguist/hoax.svg)]()
 [![Build Status](https://secure.travis-ci.org/xenolinguist/hoax.png)](http://travis-ci.org/xenolinguist/hoax)
 [![Hex.pm](https://img.shields.io/hexpm/v/hoax.svg)]()
